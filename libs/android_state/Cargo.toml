@@ -8,8 +8,8 @@ categories = ["gui"]
 description = "Exposes access to Makepad's context states on Android"
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/visokit/viso/"
-repository = "https://github.com/visokit/viso/"
+homepage = "https://github.com/visoui/viso/"
+repository = "https://github.com/visoui/viso/"
 metadata.makepad-auto-version = "Xn0xvOdZChZbltM8tMBk0zLdOBc="
 
 [dependencies]

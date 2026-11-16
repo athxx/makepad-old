@@ -5,8 +5,8 @@ authors = ["Athan <info@makepad.nl>"]
 edition = "2024"
 description = "ende encode/decode replacement for ende"
 license = "LGPL-3.0"
-homepage = "https://github.com/visokit/viso/"
-repository = "https://github.com/visokit/viso/"
+homepage = "https://github.com/visoui/viso/"
+repository = "https://github.com/visoui/viso/"
 metadata.makepad-auto-version = "yK9xdn_D0D3EdqleI-WHLtjk4rk="
 
 [dependencies]

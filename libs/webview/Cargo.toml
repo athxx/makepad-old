@@ -5,8 +5,8 @@ authors = ["Makepad <info@makepad.nl>"]
 edition = "2024"
 description = "Unified cross-platform WebView + bidirectional JS bridge for Makepad"
 license = "LGPL-3.0"
-homepage = "https://github.com/visokit/viso/"
-repository = "https://github.com/visokit/viso/"
+homepage = "https://github.com/visoui/viso/"
+repository = "https://github.com/visoui/viso/"
 
 [dependencies]
 makepad-platform = { path = "../../platform", version = "2.0.0" }
